@@ -1,6 +1,10 @@
 # FATMAP Challenge
 > My solution for the given assignment
 
+## Documents
+  * [Original Assignment](https://github.com/marceloboeira/fatmap-challenge/blob/master/ASSIGNMENT.md)
+  * [Comments](https://github.com/marceloboeira/fatmap-challenge/blob/master/COMMENTS.md)
+
 ## Setup
 
 Considering you have ruby/bundler installed, run: `make install`
